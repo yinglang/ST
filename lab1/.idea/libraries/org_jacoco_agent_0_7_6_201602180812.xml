@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.jacoco.agent_0.7.6.201602180812">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/org.jacoco.agent_0.7.6.201602180812.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/com.mountainminds.eclemma.debug.ui.compatibility_2.3.3.201602231923.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/org.jacoco.core_0.7.6.201602180812.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/com.mountainminds.eclemma.core_2.3.3.201602231923.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/org.jacoco.report_0.7.6.201602180812.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/com.mountainminds.eclemma.ui_2.3.3.201602231923.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lab/eclemma-2.3.3/plugins/com.mountainminds.eclemma.asm_2.3.3.201602231923.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
